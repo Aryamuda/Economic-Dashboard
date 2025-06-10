@@ -2,6 +2,9 @@
 
 This project is an interactive web application built with Streamlit that visualizes key economic indicators for major economies. It fetches real-time data from the Federal Reserve Economic Data (FRED) database, providing a tool for economic analysis and comparison.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://economicindicator.streamlit.app/)
+
+
 ## Features
 
   - **Two Dashboard Modes**:
